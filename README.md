@@ -10,4 +10,4 @@ User Interface: LCD or web-based interface to check live water conditions and sy
 Microcontroller 
 Temperature, pH, dissolved oxygen, and turbidity sensors
 LCD display for local monitoring
-IoT module (Wi-Fi) for cloud connectivity
+IoT module (Blynk) for cloud connectivity
